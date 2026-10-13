@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%2312151c' stroke='%23f59e0b' stroke-width='4'/><circle cx='50' cy='50' r='38' fill='none' stroke='%23f59e0b' stroke-width='1' stroke-opacity='0.4'/><circle cx='50' cy='50' r='28' fill='none' stroke='%23f59e0b' stroke-width='1' stroke-opacity='0.6'/><circle cx='50' cy='50' r='18' fill='%23e07a5f'/><circle cx='50' cy='50' r='6' fill='%230a0c10'/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Rajeev Sasmal - B.Tech CSE Student at JECRC University | Indie Music Coded Portfolio | AI, Generative AI & Web Engineering" />
+    <meta name="author" content="Rajeev Sasmal" />
+    <meta property="og:title" content="Rajeev Sasmal | Indie Music Developer Portfolio" />
+    <meta property="og:description" content="Personal portfolio of Rajeev Sasmal showcasing education, skills, projects, and achievements in an indie music aesthetic." />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <title>Rajeev Sasmal | Indie Music Portfolio • B.Tech CSE & AI</title>
+    <script type="module" crossorigin src="/assets/index-C5M0MlTB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Dxdfmajx.css">
+  </head>
+  <body class="bg-[#0a0c10] text-slate-100 selection:bg-amber-500 selection:text-black font-sans antialiased overflow-x-hidden min-h-screen">
+    <div id="root"></div>
+  </body>
+</html>
